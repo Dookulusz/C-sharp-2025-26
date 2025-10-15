@@ -15,33 +15,56 @@
  * 
  * - Minden év végéen az állam jóváírja
  *   az adott évebn befizetett összeg 20%-át
- *   de legfeljebb 138_000 Ft.ot évente.
+ *   de legfeljebb 130_000 Ft.ot évente.
+ *   
  */
+
 int kor;
+int korhatar = 0;
 string nem;
 double félretett;
 double kamat = 1.065;
+double allam = 0;
 
-Console.WriteLine("Hány éves vagy: ");
+Console.Write("Hány éves vagy: ");
 kor = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Nemed: ");
+Console.Write("Nemed: ");
 nem = Console.ReadLine();
 
-while (nem != "férfi" || nem != "nő")
+while (nem != "férfi" && nem != "nő")
 {
-    Console.WriteLine("Add meg rendesen");
+    Console.Write("Add meg rendesen koma: ");
     nem = Console.ReadLine();
 }
 
-Console.WriteLine("Mennyit tesz félre: ");
+Console.Write("Mennyit tesz félre: ");
 félretett = double.Parse(Console.ReadLine());
+
+double félretetteves = félretett * 12;
 
 if (nem == "férfi")
 {
-
+    korhatar = 65;
 }
+
 else if (nem == "nő")
 {
+    korhatar = 62;
+}
+
+for (int i = kor; kor < korhatar; kor++)
+{
+    int kedvezmeny;
+
+    if (félretetteves * 0.2 > 130_000 )
+    {
+        kedvezmeny = 130_000;
+    }
+
+    félretett *= kamat;
 
 }
+
+Console.WriteLine($"A megtakarított pénzed nyugdíjbavonuláskor: {félretett}");
+Console.WriteLine($"A pénzed az állam támogatásával: {allam}");
