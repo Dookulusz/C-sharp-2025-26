@@ -36,21 +36,20 @@ Console.WriteLine(összeg);
 
 //4. feladat
 
-/*
+
 Console.Write("Addj meg egy számot: ");
 int szam = int.Parse(Console.ReadLine());
-int összeg = 0;
-int utolsó;
+int osszeg = 0;
+
 
 while (szam > 0)
 {
-    utolsó = szam % 10;
-    összeg += utolsó;
-    szam = szam / 10;
+    osszeg += szam % 10;
+    szam /= 10;
 }
 
-Console.WriteLine(összeg);
-*/
+Console.WriteLine(osszeg);
+
 
 //5. feladat
 
