@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciklus2.0", "Ciklus2.0\Cikl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cklus 2.0 gyakorlás", "Cklus 2.0 gyakorlás\Cklus 2.0 gyakorlás.csproj", "{68AE37EE-7CA8-4322-8ED6-61CDCC46ED76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for ciklus 2.0 gyakorlás2", "for ciklus 2.0 gyakorlás2\for ciklus 2.0 gyakorlás2.csproj", "{99AD8446-46FB-416F-A858-907D3EF690DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{68AE37EE-7CA8-4322-8ED6-61CDCC46ED76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68AE37EE-7CA8-4322-8ED6-61CDCC46ED76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68AE37EE-7CA8-4322-8ED6-61CDCC46ED76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AD8446-46FB-416F-A858-907D3EF690DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AD8446-46FB-416F-A858-907D3EF690DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AD8446-46FB-416F-A858-907D3EF690DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AD8446-46FB-416F-A858-907D3EF690DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

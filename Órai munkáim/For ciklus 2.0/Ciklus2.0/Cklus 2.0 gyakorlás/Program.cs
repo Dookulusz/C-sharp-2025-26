@@ -1,5 +1,4 @@
 ﻿string magánhangzók = "aáeéoóuúiíöőüű";
-string mássalhangók = "qwrtzpsdfghjklyxcvbnm";
 string eredeti = "Tudsz így beszélni?";
 string hablagy = "tuvudsz ivigy bevesévélnivi?";
 
