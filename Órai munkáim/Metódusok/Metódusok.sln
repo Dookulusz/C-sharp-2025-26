@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metódusok", "Metódusok\Metódusok.csproj", "{4844627B-72CB-4B70-9E82-5C7CC2C9E7DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metódusok2", "Metódusok2\Metódusok2.csproj", "{16225016-1835-434D-97F2-63D7732399AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4844627B-72CB-4B70-9E82-5C7CC2C9E7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4844627B-72CB-4B70-9E82-5C7CC2C9E7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4844627B-72CB-4B70-9E82-5C7CC2C9E7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4844627B-72CB-4B70-9E82-5C7CC2C9E7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16225016-1835-434D-97F2-63D7732399AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16225016-1835-434D-97F2-63D7732399AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16225016-1835-434D-97F2-63D7732399AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16225016-1835-434D-97F2-63D7732399AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E15DD7A-2B15-49AF-841F-00A188ED0E53}
+	EndGlobalSection
+EndGlobal
