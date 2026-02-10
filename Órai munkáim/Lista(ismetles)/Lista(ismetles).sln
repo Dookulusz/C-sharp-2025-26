@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista(ismetles)", "Lista(ismetles)\Lista(ismetles).csproj", "{1266C511-A952-4299-BE97-E107454CA575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gyakorláslista", "gyakorláslista\gyakorláslista.csproj", "{CBE3B928-8F36-48B6-8CE6-A45E871EC586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1266C511-A952-4299-BE97-E107454CA575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1266C511-A952-4299-BE97-E107454CA575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1266C511-A952-4299-BE97-E107454CA575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1266C511-A952-4299-BE97-E107454CA575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE3B928-8F36-48B6-8CE6-A45E871EC586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE3B928-8F36-48B6-8CE6-A45E871EC586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE3B928-8F36-48B6-8CE6-A45E871EC586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE3B928-8F36-48B6-8CE6-A45E871EC586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D06F215-22D8-401D-8CC6-5FCAF0D69505}
+	EndGlobalSection
+EndGlobal
