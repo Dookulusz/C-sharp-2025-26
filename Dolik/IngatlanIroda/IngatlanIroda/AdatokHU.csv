@@ -1,0 +1,51 @@
+﻿Település;Cim;Terület;Szobák;Ár;Emelet;Eladó;Kertes
+Budapest;Fő utca 12.;73,5;3;45,9;2;true;false
+Debrecen;Kossuth utca 5.;55,0;2;28,5;0;true;true
+Pécs;Rákóczi út 33.;90,0;4;38,0;1;false;true
+Győr;Arany János utca 7.;62,5;3;31,2;3;true;false
+Miskolc;Széchenyi út 18.;48,0;2;19,9;0;false;true
+Budapest;Váci út 101.;110,0;5;89,0;5;true;false
+Sopron;Petőfi utca 4.;78,0;3;42,5;2;true;true
+Eger;Dobó tér 2.;65,0;3;33,0;1;false;false
+Székesfehérvár;Március 15, tér 9.;52,0;2;24,5;0;true;true
+Veszprém;Óváros tér 6.;84,0;4;36,8;2;false;false
+Budapest;Bartók Béla út 45.;95,0;4;72,0;3;true;false
+Kecskemét;Szabadság tér 11.;60,0;3;27,9;1;true;true
+Nyíregyháza;Luther utca 3.;45,0;2;17,5;0;false;true
+Szombathely;Fő tér 8.;70,0;3;34,0;2;true;false
+Kaposvár;Rippl-Rónai utca 14.;55,5;2;21,0;1;false;true
+Budapest;Andrássy út 22.;150,0;6;185,0;4;true;false
+Zalaegerszeg;Kovács utca 7.;67,0;3;29,5;0;true;true
+Tatabánya;Május 1, út 19.;50,0;2;18,9;2;false;false
+Szolnok;Verseghy utca 5.;80,0;4;32,0;1;true;true
+Érd;Budai út 55.;100,0;5;58,0;0;true;false
+Budapest;Üllői út 78.;42,0;1;38,5;6;false;false
+Győr;Baross út 12.;88,0;4;43,0;0;true;true
+Debrecen;Piac utca 44.;73,0;3;31,5;3;false;false
+Pécs;Király utca 9.;61,0;3;29,0;2;true;false
+Miskolc;Bajcsy-Zsilinszky út 6.;54,0;2;22,5;1;true;true
+Budapest;Margit körút 31.;120,0;5;98,0;2;false;false
+Sopron;Széchenyi tér 3.;92,0;4;49,9;0;true;true
+Eger;Knézich utca 11.;47,0;2;20,0;1;false;false
+Kecskemét;Izsáki út 22.;76,0;3;30,0;0;true;true
+Székesfehérvár;Budai út 14.;58,0;2;25,9;2;false;false
+Budapest;Lánchíd utca 1.;200,0;7;320,0;3;true;false
+Veszprém;Jutasi út 8.;63,0;3;28,0;1;true;true
+Nyíregyháza;Dózsa György út 17.;51,0;2;19,0;0;false;false
+Szombathely;Kőszegi út 5.;82,0;4;37,5;2;true;true
+Kaposvár;Fő utca 30.;44,0;1;15,9;3;false;false
+Budapest;Kerepesi út 55.;68,0;3;52,0;1;true;false
+Zalaegerszeg;Rákóczi utca 9.;57,0;2;23,5;0;false;true
+Tatabánya;Győri út 41.;93,0;4;40,0;0;true;true
+Szolnok;Ady Endre út 3.;72,0;3;27,0;2;false;false
+Érd;Tárnoki út 18.;115,0;5;64,0;1;true;false
+Budapest;Zsigmond tér 6.;85,0;4;69,5;4;false;false
+Győr;Révai Miklós utca 2.;48,0;2;22,0;2;true;true
+Debrecen;Hatvan utca 31.;104,0;4;44,5;0;true;false
+Pécs;Alkotmány utca 7.;59,0;2;26,0;1;false;true
+Miskolc;Görgey Arthur utca 13.;77,0;3;31,0;3;true;false
+Budapest;Dohány utca 44.;66,0;3;57,0;2;false;false
+Sopron;Ógabona tér 5.;53,0;2;27,0;1;true;true
+Eger;Széchenyi utca 19.;89,0;4;38,5;0;true;false
+Kecskemét;Nyíri út 8.;46,0;2;18,0;2;false;true
+Székesfehérvár;Palotai út 26.;71,0;3;32,5;1;true;false
